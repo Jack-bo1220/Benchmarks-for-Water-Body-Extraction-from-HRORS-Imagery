@@ -49,7 +49,7 @@ To facilitate the qualitative and quantitative comparison in the research avenue
 }
 ``` 
 ## Relevant information
-**:one: Other relevant datasets（:white_check_mark: Last updated on March 30, 2022)**
+**:one: Other relevant datasets（:white_check_mark: Last updated on October 5, 2022)**
  
 Datasets  | Total image number  | Image bands number | Image size (pixels)  | Spatial resolution | Data sources  | Year | Link
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: 
@@ -63,6 +63,7 @@ EORSSD | 2000 | 3 | 500 × 500 | - | Google Earth | 2020 | [EORSSD][EORSSD]
 Landcover_ai | 41 | 3 | 9000 × 9500/4200 × 4700 | 0.25m/0.5m | Public Geodetic Resource | 2020 | [Landcover_ai][Landcover_ai]
 2020 Gaofen Challenge dataset | 1000/2500 | 3 | 492∼2000 × 492∼2000 | 1 to 4m | GF-2 | 2020 | [GF-water][GF-water]
 LoveDA | 5987 | 3 | 1024 × 1024 | 0.3m | Google Earth | 2021 | [LoveDA][LoveDA]
+Five-Billion-Pixels | 150 | 4 | 7200 × 6800 | 4m | GF-2 | 2022 | [FBP][FBP]
 
 **:two: Summary of existing reviews of water body classification（:white_check_mark: Last updated on March 30, 2022)**
 No. | Review title | Year | Publication | DOI/URL
@@ -132,6 +133,7 @@ If you have any questions about it, please feel free to let me know. (:email: em
 [Landcover_ai]:https://landcover.ai/
 [GF-water]:https://github.com/AICyberTeam/2020Gaofen
 [LoveDA]:https://github.com/Junjue-Wang/LoveDA
+[FBP]:https://x-ytong.github.io/project/Five-Billion-Pixels.html
 [Deepwatermap]:https://github.com/isikdogan/deepwatermap
 [MSResNet-via-SSL]: https://github.com/Jack-bo1220/MSResNet-via-SSL
 [MECNet]: https://github.com/ZhangZhily/MECNet
