@@ -65,8 +65,8 @@ Landcover_ai | 41 | 3 | 9000 × 9500/4200 × 4700 | 0.25m/0.5m | Public Geodetic
 LoveDA | 5987 | 3 | 1024 × 1024 | 0.3m | Google Earth | 2021 | [LoveDA][LoveDA]
 Five-Billion-Pixels | 150 | 4 | 7200 × 6800 | 4m | GF-2 | 2022 | [FBP][FBP]
 Urban Watch | 200 | 4 | 512 × 512 | 1m | NAIP | 2022 | [Urban Watch][Urban Watch] 
-DynamicEarthNet | 54750 | 4 | 1024 × 1024 | 3 | PlanetFusion | [DynamicEarthNet][DynamicEarthNet] 
-Satlas | 496468 | 4/6 | 512 × 512 | 1/10 | NAIP/Sentinel-2 | [Satlas][Satlas] 
+DynamicEarthNet | 54750 | 4 | 1024 × 1024 | 3 | PlanetFusion | 2022 | [DynamicEarthNet][DynamicEarthNet] 
+Satlas | 496468 | 4/6 | 512 × 512 | 1/10 | NAIP/Sentinel-2 | 2022 | [Satlas][Satlas] 
 
 **:two: Summary of existing reviews of water body classification（:white_check_mark: Last updated on March 30, 2022)**
 No. | Review title | Year | Publication | DOI/URL
