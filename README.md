@@ -9,7 +9,7 @@
 ----
 
 ## Benchmarks
-To facilitate the qualitative and quantitative comparison in the research avenue, the two benchmarks employed in our paper and links to other relevant datasets and open-source codes will be summarized and released in this reponsitory. 
+To facilitate the qualitative and quantitative comparison in the research avenue, the two benchmarks employed in our paper and links to other relevant datasets and open-source codes will be summarized and released in this repository. 
 
 **No.1 Gaofen Image Dataset (GID)**
 
@@ -49,7 +49,7 @@ To facilitate the qualitative and quantitative comparison in the research avenue
 }
 ``` 
 ## Relevant information
-**:one: Other relevant datasets（:white_check_mark: Last updated on October 5, 2022)**
+**:one: Other relevant datasets（:white_check_mark: Last updated on February 27, 2023)**
  
 Datasets  | Total image number  | Image bands number | Image size (pixels)  | Spatial resolution | Data sources  | Year | Link
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: 
@@ -64,6 +64,9 @@ Landcover_ai | 41 | 3 | 9000 × 9500/4200 × 4700 | 0.25m/0.5m | Public Geodetic
 2020 Gaofen Challenge dataset | 1000/2500 | 3 | 492∼2000 × 492∼2000 | 1 to 4m | GF-2 | 2020 | [GF-water][GF-water]
 LoveDA | 5987 | 3 | 1024 × 1024 | 0.3m | Google Earth | 2021 | [LoveDA][LoveDA]
 Five-Billion-Pixels | 150 | 4 | 7200 × 6800 | 4m | GF-2 | 2022 | [FBP][FBP]
+Urban Watch | 200 | 4 | 512 × 512 | 1m | NAIP | 2022 | [Urban Watch][Urban Watch] 
+DynamicEarthNet | 54750 | 4 | 1024 × 1024 | 3 | PlanetFusion | [DynamicEarthNet][DynamicEarthNet] 
+Satlas | 496468 | 4/6 | 512 × 512 | 1/10 | NAIP/Sentinel-2 | [Satlas][Satlas] 
 
 **:two: Summary of existing reviews of water body classification（:white_check_mark: Last updated on March 30, 2022)**
 No. | Review title | Year | Publication | DOI/URL
@@ -134,6 +137,9 @@ If you have any questions about it, please feel free to let me know. (:email: em
 [GF-water]:https://github.com/AICyberTeam/2020Gaofen
 [LoveDA]:https://github.com/Junjue-Wang/LoveDA
 [FBP]:https://x-ytong.github.io/project/Five-Billion-Pixels.html
+[Urban Watch]:https://urbanwatch.charlotte.edu
+[DynamicEarthNet]:https://mediatum.ub.tum.de/1650201
+[Satlas]:https://satlas.apps.allenai.org/
 [Deepwatermap]:https://github.com/isikdogan/deepwatermap
 [MSResNet-via-SSL]: https://github.com/Jack-bo1220/MSResNet-via-SSL
 [MECNet]: https://github.com/ZhangZhily/MECNet
