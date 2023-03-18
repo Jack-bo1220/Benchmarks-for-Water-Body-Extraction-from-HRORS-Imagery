@@ -49,7 +49,7 @@ To facilitate the qualitative and quantitative comparison in the research avenue
 }
 ``` 
 ## Relevant information
-**:one: Other relevant datasets（:white_check_mark: Last updated on February 27, 2023)**
+**:one: Other relevant datasets（:white_check_mark: Last updated on March 18, 2023)**
  
 Datasets  | Total image number  | Image bands number | Image size (pixels)  | Spatial resolution | Data sources  | Year | Link
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: 
@@ -66,7 +66,9 @@ LoveDA | 5987 | 3 | 1024 × 1024 | 0.3m | Google Earth | 2021 | [LoveDA][LoveDA]
 Five-Billion-Pixels | 150 | 4 | 7200 × 6800 | 4m | GF-2 | 2022 | [FBP][FBP]
 Urban Watch | 200 | 4 | 512 × 512 | 1m | NAIP | 2022 | [Urban Watch][Urban Watch] 
 DynamicEarthNet | 54750 | 4 | 1024 × 1024 | 3 | PlanetFusion | 2022 | [DynamicEarthNet][DynamicEarthNet] 
-Satlas | 496468 | 4/6 | 512 × 512 | 1/10 | NAIP/Sentinel-2 | 2022 | [Satlas][Satlas] 
+Satlas | 496468 | 4/6 | 512 × 512 | 1/10 | NAIP/Sentinel-2 | 2022 | [Satlas][Satlas]
+OpenEarthMap | 5000 | 3 | 1024 × 1024 | 0.25-0.5 | - | 2023 | [OpenEarthMap][OpenEarthMap]
+GLH-water | 250 | 3 | 12800 × 12800 | 0.3 | Google Earth | 2023 | [GLH-water][GLH-water]
 
 **:two: Summary of existing reviews of water body classification（:white_check_mark: Last updated on March 30, 2022)**
 No. | Review title | Year | Publication | DOI/URL
@@ -140,6 +142,8 @@ If you have any questions about it, please feel free to let me know. (:email: em
 [Urban Watch]:https://urbanwatch.charlotte.edu
 [DynamicEarthNet]:https://mediatum.ub.tum.de/1650201
 [Satlas]:https://satlas.apps.allenai.org/
+[OpenEarthMap]:https://open-earth-map.org/
+[GLH-water]:https://jack-bo1220.github.io/project/GLH-water.html
 [Deepwatermap]:https://github.com/isikdogan/deepwatermap
 [MSResNet-via-SSL]: https://github.com/Jack-bo1220/MSResNet-via-SSL
 [MECNet]: https://github.com/ZhangZhily/MECNet
